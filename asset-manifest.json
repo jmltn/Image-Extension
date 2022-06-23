@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Image-Extension/static/css/main.5985fdcb.css",
+    "main.js": "/Image-Extension/static/js/main.0985daff.js",
+    "index.html": "/Image-Extension/index.html",
+    "main.5985fdcb.css.map": "/Image-Extension/static/css/main.5985fdcb.css.map",
+    "main.0985daff.js.map": "/Image-Extension/static/js/main.0985daff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5985fdcb.css",
+    "static/js/main.0985daff.js"
+  ]
+}
