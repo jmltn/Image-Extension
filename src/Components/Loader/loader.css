@@ -1,0 +1,14 @@
+.middle {
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	position: absolute;
+}
+.box {
+	width: 20px;
+	height: 20px;
+	background: white;
+	display: inline-block;
+	animation: loader 1.3s linear infinite;
+	margin-right: 1rem;
+}

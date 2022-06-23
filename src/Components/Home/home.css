@@ -1,0 +1,94 @@
+.set_btn,
+.download-image-btn {
+	font-size: 1.1rem;
+	padding: 0.8rem;
+	width: 352px; 
+	border: 0.5px solid white;
+	background-color: #343333c4;
+	color: white;
+	margin-top: 1.5rem;
+	outline: none;
+	color: lightgray;
+	cursor: pointer;
+}
+
+.download-image-btn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+}
+
+.offline_description {
+	margin-top: 1rem;
+	color: #a59f9fc4;
+	text-align: center;
+}
+
+.is-offline {
+	pointer-events: none;
+}
+
+.option_container {
+	margin: 3rem 0;
+}
+
+.option_container .sub_headings {
+	font-size: 1.2rem;
+	opacity: 0.7;
+	margin: 3rem 0 1rem 0;
+}
+
+.set_btn {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 1rem;
+	cursor: pointer;
+}
+
+.download-image-btn:hover {
+	background: #aaa0a0c4;
+}
+
+.active_set_btn {
+	background-color: #a59f9fc4;
+}
+
+.set_btn .info {
+	font-size: 0.6rem;
+}
+
+.system_btn {
+	text-align: center;
+}
+
+.system_deauthorize_btns {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	gap: 1rem;
+	width: 352px;
+}
+
+.system_deauthorize_btns button {
+	padding: 0.8rem;
+	border: 0.5px solid white;
+	background-color: #343333c4;
+	color: white;
+	outline: none;
+	color: lightgray;
+	cursor: pointer;
+	width: 100%;
+	flex: 1;
+}
+
+.remove_key_btn {
+	background-color: #b55656 !important;
+	color: black !important;
+}
+
+.extension_description {
+	color: darkgray;
+	line-height: 1.7rem;
+}

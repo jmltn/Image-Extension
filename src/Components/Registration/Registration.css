@@ -1,0 +1,74 @@
+.container {
+	padding: 1.5rem;
+	font-size: 1.2rem;
+}
+
+.registrationInfo {
+	font-weight: bold;
+}
+
+.versionInfo {
+	margin-top: 20px;
+	font-weight: 100;
+	font-style: italic;
+}
+
+.statusInfo {
+	margin-top: 20px;
+	font-weight: 100;
+}
+
+.button {
+	font-size: 1rem;
+	padding: 0.8rem;
+	width: 100%;
+	text-align: left;
+	border: 0.5px solid hsl(0, 0%, 100%);
+	background-color: #343333c4;
+	color: white;
+	margin-top: 10px;
+	outline: none;
+	cursor: pointer;
+}
+
+.button:hover {
+	background: #aaa0a0c4;
+}
+
+.registerMessage {
+	margin-top: 20px;
+	font-weight: 100;
+}
+
+.register {
+	margin-top: 20px;
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+}
+
+.textBox {
+	flex: 1;
+	height: 3rem;
+	background-color: #322f2f;
+	color: white;
+	border: none;
+	outline: none;
+	font-size: 20px;
+	padding: 4px;
+	font-weight: 100;
+}
+
+.registerBtn {
+	margin-top: 0;
+	width: min-content;
+}
+
+.trialMessage {
+	margin-top: 10px;
+	font-weight: 100;
+}
+
+.trialMessage a {
+	color: white;
+}
